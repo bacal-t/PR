@@ -1,0 +1,7 @@
+C:\Users\bacal\source\repos\pr_lab2\pr_lab2\bin\Debug\pr_lab2.exe.config
+C:\Users\bacal\source\repos\pr_lab2\pr_lab2\bin\Debug\pr_lab2.exe
+C:\Users\bacal\source\repos\pr_lab2\pr_lab2\bin\Debug\pr_lab2.pdb
+C:\Users\bacal\source\repos\pr_lab2\pr_lab2\obj\Debug\pr_lab2.csprojAssemblyReference.cache
+C:\Users\bacal\source\repos\pr_lab2\pr_lab2\obj\Debug\pr_lab2.csproj.CoreCompileInputs.cache
+C:\Users\bacal\source\repos\pr_lab2\pr_lab2\obj\Debug\pr_lab2.exe
+C:\Users\bacal\source\repos\pr_lab2\pr_lab2\obj\Debug\pr_lab2.pdb
